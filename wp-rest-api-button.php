@@ -2,7 +2,7 @@
 /*
 Plugin Name: WP REST API Button
 Description: Adds a button in the post editor that opens the current post's REST API endpoint in a new tab. Supports custom post types.
-Version: 1.2.0
+Version: 1.0.0
 Author: Kaelan Smith
 */
 
