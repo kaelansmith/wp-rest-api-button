@@ -1,4 +1,4 @@
 # wp-rest-api-button
-WordPress plugin that adds a link in the Gutenberg post editor for quickly viewing the current post's REST API endpoint.
+A WordPress plugin that adds a link in the Gutenberg post editor's "options" dropdown for quickly viewing the current post's REST API endpoint in a new tab. Compatible with posts/pages and all custom post types.
 
 ![screenshot](screenshot.png)
