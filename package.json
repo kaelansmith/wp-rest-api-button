@@ -1,0 +1,22 @@
+{
+  "name": "wp-rest-api-button",
+  "version": "1.0.0",
+  "description": "WP plugin that adds a button in the post editor that opens the current post's REST API endpoint in a new tab",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "wp-scripts build",
+    "zip": "wp-scripts plugin-zip"
+  },
+  "author": "kaelansmith",
+  "license": "GPL-2.0-only",
+  "devDependencies": {
+    "@wordpress/scripts": "25.3.0"
+  },
+  "dependencies": {
+    "@wordpress/data": "^8.3.0",
+    "@wordpress/edit-post": "^7.3.0",
+    "@wordpress/icons": "^9.17.0",
+    "@wordpress/plugins": "^5.3.0"
+  }
+}
